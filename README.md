@@ -15,7 +15,7 @@ Drag PRLWordCounter.app from DerivedData/Debug to /Applications
 
 ## Download the App
 
-**[Download PRLWordCounter.app.zip (v1.0.0)](https://github.com/yourusername/PRLWordCounter/releases/latest)**
+**[Download PRLWordCounter.app.zip (v1.0.0)]([https://github.com/ethan-phys/HEP_toolkit/releases/latest])**
 
 Unzip → drag to Applications.
 
