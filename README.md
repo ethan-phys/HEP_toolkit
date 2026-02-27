@@ -12,3 +12,13 @@ Xcode → Product → Run (Cmd+R)
 
 ## Install
 Drag PRLWordCounter.app from DerivedData/Debug to /Applications
+
+## Download the App
+
+**[Download PRLWordCounter.app.zip (v1.0.0)](https://github.com/yourusername/PRLWordCounter/releases/latest)**
+
+Unzip → drag to Applications.
+
+**First launch warning?**  
+Right-click the app → Open → click Open in dialog.  
+(macOS Gatekeeper blocks unsigned apps — normal for open-source tools.)
